@@ -3,19 +3,20 @@
     "name": "django-sidebar",
     "version": "1.0",
     "description": "Toggle visible/invisible the sidebar in the django framework's official website.",
-    "permissions": ["activeTab"],
+    "permissions": ["storage", "activeTab"],
+    "host_permissions":["https://*.djangoproject.com/*"],
     "content_scripts": [
       {
-        "matches": ["<all_urls>"],
+        "matches": ["https://*.djangoproject.com/*"],
         "js": ["content.js"]  
       }
     ],
     "action": {
-      "default_popup": "popup.html", 
+      "default_popup": "templates/popup.html",
       "default_icon": {
         "16": "images/icon16.png",
         "48": "images/icon48.png",
-        "100": "images/icon100.png"
+        "100": "images/icon100.png"  
       }
     },
     "icons": {

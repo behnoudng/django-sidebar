@@ -1,8 +1,9 @@
+const contentDiv = document.querySelector("div[role='main']");
+const menuDiv = document.getElementById("version-switcher")
 
-document.addEventListener("DOMContentLoaded", function () {
-    const myDiv = document.querySelector('div[role="main"].my-div-class');
-
-    if (myDiv) {
-      myDiv.style.width = "960px";
-    }
-  });
+if (contentDiv) {
+    contentDiv.style.width = "844px";
+}
+if(menuDiv) {
+    menuDiv.style.display = "none";
+}
