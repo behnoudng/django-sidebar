@@ -7,7 +7,7 @@ if (contentDiv) {
     contentDiv.style.width = "99.8%";
 }
 if (sidebar){
-    menuDiv.style.display = "none";
+    sidebar.style.display = "none";
 }
 if(menuDiv) {
     menuDiv.style.display = "none";
