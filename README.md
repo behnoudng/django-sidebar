@@ -13,11 +13,11 @@ The extension can be installed on any chromium-based browser.
 ## Usage
 **Extension disabled:**
 
-![extension_disabled](https://raw.githubusercontent.com/behnoudng/django-sidebar/main/readme-assets/exten-dis.jpg?token=GHSAT0AAAAAACHQXIB76HNQQ24EYXGOZCGCZJCM4DA)
+![extension_disabled](readme-assets/exten-dis.jpg)
 
 **Extension enabled:**
 
-![extension_disabled](https://raw.githubusercontent.com/behnoudng/django-sidebar/main/readme-assets/exten-en.jpg?token=GHSAT0AAAAAACHQXIB7KLV4JUY3TH2YDUACZJCM4TA)
+![extension_disabled](readme-assets/exten-en.jpg)
 
 ## Contributing
 
