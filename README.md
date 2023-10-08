@@ -2,6 +2,10 @@
 
 Is a chromium-based extension to disable the sidebar and side-menu in the official website of [Django](https://docs.djangoproject.com/en/4.2/)
 
+## Puprose
+
+I've found the sidebar and version-switcher and the right side of the official website of [Django](https://docs.djangoproject.com/en/4.2/), quite distracting. Thus I made this simple extension to be able to make it appear/disappear whenever I want to.
+
 ## Installation
 
 The extension can be installed on any chromium-based browser.
