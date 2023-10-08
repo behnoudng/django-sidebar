@@ -8,7 +8,7 @@ I've found the sidebar and version-switcher and the right side of the official w
 
 ## Installation
 
-The extension can be installed on any chromium-based browser.
+The extension can be installed on any chromium-based browser (e.g. Brave, Google Chrome, etc).
 
 ## Usage
 **Extension disabled:**
