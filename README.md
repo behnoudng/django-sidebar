@@ -27,5 +27,4 @@ Pull requests are welcome.
 
 [Apache 2.0](https://github.com/behnoudng/django-sidebar/blob/main/LICENSE)
 
-***
-Twitter: [@behnoudng](https://www.twitter.com/behnoudng)
+
